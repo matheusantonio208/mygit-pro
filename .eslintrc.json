@@ -20,6 +20,9 @@
         "react",
         "prettier"
     ],
+    "globals": {
+      "__DEV__":"readonly"
+    },
     "rules": {
       "prettier/prettier": ["error",{"endOfLine":"auto"}],
       "class-methods-use-this": "off",

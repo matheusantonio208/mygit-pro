@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="module06/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module06.iml" filepath="$PROJECT_DIR$/.idea/modules/module06.iml" group="module06" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/549595944/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/549595944/react-native-community_async-storage.iml" group="module06/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2037396517/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2037396517/react-native-community_masked-view.iml" group="module06/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828700242/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1828700242/react-native-gesture-handler.iml" group="module06/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1623297398/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1623297398/react-native-reanimated.iml" group="module06/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1390677051/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1390677051/react-native-safe-area-context.iml" group="module06/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1583650285/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1583650285/react-native-screens.iml" group="module06/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1776584900/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1776584900/react-native-vector-icons.iml" group="module06/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
